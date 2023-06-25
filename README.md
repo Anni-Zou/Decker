@@ -2,7 +2,7 @@
 
 **DECKER**, consists of three major modules: (i) Knowledge Retrieval Module which retrieves heterogeneous knowledge based on the input question; (ii) Double Check Module which merges information from structured and unstructured knowledge and makes a double check between them; (iii) Knowledge Fusion Module which combines heterogeneous knowledge together to obtain a final representation.
 
-
+![](pics/overview.png)
 ## Requirements
 
 Install all required python dependencies:

@@ -36,7 +36,7 @@ from transformers import (
 )
 from transformers.integrations import WandbCallback, rewrite_logs
 
-from model.modeling_v3 import MyConFact_RGCN
+from model.modeling_v3 import MyConFact_Deberta
 from dataset import MyDataset, Split
 
 logger = logging.getLogger(__name__)

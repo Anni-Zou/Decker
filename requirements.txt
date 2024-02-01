@@ -67,6 +67,7 @@ seaborn==0.12.2
 sentencepiece==0.1.97
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
+spacy==2.1.6
 threadpoolctl==3.1.0
 tokenizers==0.13.2
 torch==1.13.0+cu116
